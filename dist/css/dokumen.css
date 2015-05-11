@@ -6,8 +6,8 @@ body {
 }
 @font-face{
 	font-family: FonttAwesome;
-	src:url(./dist/font/FontAwesome-webfont.eot);
-	src:url(./dist/font/FontAwesome-webfont.svg);
-	src:url(./dist/font/FontAwesome-webfont.ttf);
-	src:url(./dist/font/FontAwesome-webfont.woff);
+	src:url(./dist/fonts/FontAwesome-webfont.eot);
+	src:url(./dist/fonts/FontAwesome-webfont.svg);
+	src:url(./dist/fonts/FontAwesome-webfont.ttf);
+	src:url(./dist/fonts/FontAwesome-webfont.woff);
 }
