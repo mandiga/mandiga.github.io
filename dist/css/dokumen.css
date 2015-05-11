@@ -2,10 +2,10 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
-  font-family: FonttAwesome
+  font-family: FontAwesome
 }
 @font-face{
-	font-family: FonttAwesome;
+	font-family: FontAwesome;
 	src:url(./dist/fonts/FontAwesome-webfont.eot);
 	src:url(./dist/fonts/FontAwesome-webfont.svg);
 	src:url(./dist/fonts/FontAwesome-webfont.ttf);
